@@ -17,7 +17,7 @@ Noah Harbison
 
 ## Demo
 
-- Demo video:
+- <a href="https://drive.google.com/file/d/1ghcrl1D8cZ0ei2SmR6yLDqjFXNKEb1Yj/view">Demo video</a>
 
 - <a href="https://nizzyno.github.io/note-taker/">Note Taker</a>
 
