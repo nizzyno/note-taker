@@ -13,30 +13,14 @@ Noah Harbison
 
 ## Summary
 
-- -
--
+- Note Taker is full-stack application that allows its user to write and save notes.
 
 ## Demo
 
-- - Demo video:
--
+- Demo video:
 
-## Psuedo code:
-
-- -
-  -
-  -
--
-
-## This project has script features of:
-
-- -
-  -
-  -
--
+- <a href="https://nizzyno.github.io/note-taker/">Note Taker</a>
 
 ## Installation:
 
-- -
-  -
--
+- To install, please clone the repo to your local device. Once cloned, please run npm install on your Terminal in the root directory to download any necessary dependencies. To use Note Taker on your local device, please run npm start on your Terminal and visit localhost:3001 on your web browser to experience the application.
