@@ -6,7 +6,6 @@ const {
   removeNote,
 } = require('../lib/notes.js');
 const { notes } = require('../db/db.json');
-const uuid = require('uuid');
 
 router.get('/notes', (req, res) => {
   let results = notes;
